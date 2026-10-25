@@ -1,6 +1,6 @@
-🧟 Left 4 Dead 2 Launcher for Android
+🧟 Left 4 Dead 2 for Android
 
-A custom Android launcher for Left 4 Dead 2, designed to provide a dedicated mobile gaming experience with GPU configuration, video settings, control options, mod management, and a personalized interface inspired by the zombie-apocalypse atmosphere of the game.
+Left 4 Dead 2, designed to provide a dedicated mobile gaming experience with GPU configuration, video settings, control options, mod management, and a personalized interface inspired by the zombie-apocalypse atmosphere of the game.
 
 ✨ Features
 
